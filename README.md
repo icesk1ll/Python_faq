@@ -1,8 +1,5 @@
 # Python_faq
 
-Find letters in garbage like STRINGS.EXE/ Text is our document
+[Find letters in garbage like STRINGS.EXE]:https://github.com/icesk1ll/Python_faq/blob/master/Filter_letters.md
 
-import string
-
-filter(lambda x: x in string.letters, text)
-
+[example site]:http://example.com
